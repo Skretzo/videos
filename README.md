@@ -3,6 +3,7 @@
 * [Car in desert](https://skretzo.github.io/videos/car-in-desert/)
 * [Test 1 generate twitter](https://skretzo.github.io/videos/test-1-generate-twitter/)
 * [Test 1 relative](https://skretzo.github.io/videos/test-1-relative/)
+* [Test 1 static twitter](https://skretzo.github.io/videos/test-1-static-twitter/)
 * [Test 1](https://skretzo.github.io/videos/test-1/)
 * [Test 2](https://skretzo.github.io/videos/test-2/)
 * [Test 3](https://skretzo.github.io/videos/test-3/)
