@@ -31,7 +31,7 @@
 
             function getFolder()
             {
-                return trim(window.location.pathname).split("/").pop();
+                return trim(window.location.pathname, "/").split("/").pop();
             }
 
             function toTitleCase(text)
