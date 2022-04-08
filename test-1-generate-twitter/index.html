@@ -1,44 +1,23 @@
 <!DOCTYPE html>
-
 <html>
+	<head>
+		<meta charset = "utf-8" />
+		<link rel = "stylesheet" type = "text/css" href = "../css/main.css" />
+		<script src = "../js/main.js"></script>
+	</head>
 
-    <head>
+	<body onload = "load()">
+		<video
+			loop
+			muted
+			autoplay
+			poster = "image.png"
+			src = "video.mp4"
+			controls>
+		</video>
 
-        <script src = "../js/main.js"></script>
-
-        <style>
-
-            body
-            {
-                font-family: arial, sans-serif;
-                text-align: center;
-            }
-
-            p
-            {
-                margin-top: 5px;
-                font-size: 18px;
-            }
-
-        </style>
-
-    </head>
-
-    <body onload = "load()">
-
-        <video
-            loop
-            muted
-            autoplay
-            poster = "image.png"
-            src = "video.mp4"
-            controls>
-        </video>
-
-        <p id = "subtitle">
-            Subtitle
-        </p>
-
-    </body>
-
+		<p id = "subtitle">
+			Subtitle
+		</p>
+	</body>
 </html>
